@@ -1,0 +1,2 @@
+../Src/SPI_program.c:11:6:SPI_vidInit	4	static
+../Src/SPI_program.c:16:16:SPI_udtTransceive	24	static

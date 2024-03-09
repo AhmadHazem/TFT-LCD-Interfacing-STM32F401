@@ -1,0 +1,9 @@
+../Src/SYSTICK_program.c:15:16:SYSTICK_udtSynchSecondsDelay	24	static
+../Src/SYSTICK_program.c:50:16:SYSTICK_udtSynchMsecondsDelay	24	static
+../Src/SYSTICK_program.c:84:16:SYSTICK_udtSynchUsecondsDelay	24	static
+../Src/SYSTICK_program.c:119:16:SYSTICK_udtAsynchSecondsDelay	24	static
+../Src/SYSTICK_program.c:150:16:SYSTICK_udtAsynchSingleSecondsDelay	24	static
+../Src/SYSTICK_program.c:181:6:SYSTICK_vidInit	4	static
+../Src/SYSTICK_program.c:197:16:SYSTICK_udtGetElapsedTime	24	static
+../Src/SYSTICK_program.c:210:16:SYSTICK_udtGetRemainingTime	24	static
+../Src/SYSTICK_program.c:223:6:SysTick_Handler	8	static

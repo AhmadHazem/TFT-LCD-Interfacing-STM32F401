@@ -1,0 +1,4 @@
+../Src/GPIO_program.c:21:6:GPIO_Init	16	static
+../Src/GPIO_program.c:75:16:GPIO_udtSetPinValue	24	static
+../Src/GPIO_program.c:130:16:GPIO_udtGetPinValue	24	static
+../Src/GPIO_program.c:160:16:GPIO_udtAtomicSetPinValue	24	static

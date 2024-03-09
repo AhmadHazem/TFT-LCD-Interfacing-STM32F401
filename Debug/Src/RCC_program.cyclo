@@ -1,0 +1,4 @@
+../Src/RCC_program.c:8:16:RCC_udtInitSystemClock	1
+../Src/RCC_program.c:26:16:RCC_udtEnablePeripheralClock	6
+../Src/RCC_program.c:64:16:RCC_udtDisablePeripheralClock	6
+../Src/RCC_program.c:102:16:RCC_udtResetPeripheral	6

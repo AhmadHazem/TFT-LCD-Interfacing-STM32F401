@@ -1,0 +1,2 @@
+
+#define SPI_USER_TIMEOUT  200000
